@@ -1,0 +1,6 @@
+# pip install -r requirements.txt
+
+scikit-learn
+firebase-admin
+requests 
+assemblyai

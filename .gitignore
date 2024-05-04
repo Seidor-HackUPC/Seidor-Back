@@ -1,0 +1,4 @@
+FireBase-Credentials.json
+GoogleCloud-Credentials.json
+*.env
+/env/
